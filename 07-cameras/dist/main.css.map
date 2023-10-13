@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "file": "main.css",
+  "mappings": "AAAA;EACE,UAAU;AACZ",
+  "sources": [
+    "webpack:///./src/style.css"
+  ],
+  "sourcesContent": [
+    ".big {\n  color: red;\n}\n"
+  ],
+  "names": [],
+  "sourceRoot": ""
+}
